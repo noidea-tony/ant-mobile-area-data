@@ -1,6 +1,6 @@
 {
     "name": "ant-mobile-area-data",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "This is the picker component area data of Ant Design of Angular frameowrk.",
     "main": "dist/index.js",
     "repository": {
