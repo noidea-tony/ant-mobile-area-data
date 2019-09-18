@@ -1,0 +1,5 @@
+*.html  eol=CRLF
+*.css   eol=CRLF
+*.js    eol=CRLF
+*.md    eol=CRLF
+*.json  eol=CRLF

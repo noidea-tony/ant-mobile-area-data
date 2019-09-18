@@ -1,0 +1,28 @@
+{
+    "editor.formatOnSave": false,
+    // 属性换行
+    "html.format.wrapAttributes": "force-aligned",
+    // 以新行结束
+    "html.format.endWithNewline": true,
+    // 缩进 <head> 和 <body> 部分
+    "html.format.indentInnerHtml": true,
+    // 忽略工程显示的文件夹
+    "files.exclude": {
+        "**/node_modules": true,
+    },
+    // 忽略搜索目录
+    "search.exclude": {
+        "**/test": true,
+        "**/dist": true
+    },
+    // 文档包含作者标签
+    "docthis.includeAuthorTag": true,
+    // 文档包含描述标签
+    "docthis.includeDescriptionTag": true,
+    // 文件顶部注释描述模板
+    "fileheader.tpl": "/**\r\n * @Author: {author}\r\n * @Date: {createTime}\r\n * @Description: \r\n */\r\n",
+    // 启用stylelint校验 禁止原有的css scss校验
+    "css.validate": false,
+    "scss.validate": false,
+    "emmet.triggerExpansionOnTab": true
+}

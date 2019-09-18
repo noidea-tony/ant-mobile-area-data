@@ -1,0 +1,24 @@
+{
+    "name": "ant-mobile-area-data",
+    "version": "0.1.0",
+    "description": "This is the picker component area data of Ant Design of Angular frameowrk.",
+    "main": "dist/index.js",
+    "repository": {
+        "url": "https://github.com/noidea-tony/ant-mobile-area-data"
+    },
+    "bugs": {
+        "url": "https://github.com/noidea-tony/ant-mobile-area-data/issues"
+    },
+    "scripts": {
+        "build": "rollup src/index.js --output.format umd --name ant-mobile-area-data --output.file dist/index.js"
+    },
+    "keywords": [
+        "area",
+        "ant-mobile"
+    ],
+    "author": "noidea-tony",
+    "license": "MIT",
+    "devDependencies": {
+        "rollup": "^1.21.4"
+    }
+}
