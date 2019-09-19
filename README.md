@@ -11,5 +11,5 @@ npm i ant-mobile-area-data
 ```
 - import ant-mobile-area-data
 ```javascript
-import { antMobileAreaData } from '../dist/index';
+import { antMobileAreaData } from 'ant-mobile-area-data';
 ```
